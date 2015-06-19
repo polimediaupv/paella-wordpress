@@ -1,0 +1,21 @@
+#pp_settings {
+  max-width:960px;
+  min-width:580px;
+  padding:30px;
+  background:#e1e6f0;
+/*  margin:16px 0 0 14px;*/
+  margin:30px 30px 16px 10px;
+  border: 1px solid #9daece;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  -moz-box-shadow: inset rgba(255,255,255,0.8) 0 1px 0;
+  /* -webkit-box-shadow: inset rgba(255,255,255,0.8) 0 1px 0; */
+  /* box-shadow: inset rgba(255,255,255,0.8) 0 1px 0; */
+}
+
+#pp_settings * {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-shadow:rgba(255,255,255,0.9) 0 1px 0;
+  color:#545e75;
+}
